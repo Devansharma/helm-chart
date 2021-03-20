@@ -1,0 +1,4 @@
+mysql_root_password: redhat
+mysql_database: wpdb
+mysql_user: devansh
+mysql_password: redhat
